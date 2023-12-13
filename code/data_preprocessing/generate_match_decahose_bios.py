@@ -1,6 +1,6 @@
 import pandas as pd
 import re
-path = ''
+path = '..'
 import sys
 sys.path.append(path)
 import functions as f

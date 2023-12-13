@@ -6,7 +6,7 @@ import gzip
 import re
 import functions as f
 
-mainpath = ''
+mainpath = '..'
 
 # where raw handcoding data is stored
 inpath = f'{mainpath}/data/raw/hand_coding'
